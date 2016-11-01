@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+}
+
+a {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+a:hover {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.form_container {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+form {
+  width: 50%;
+  margin: auto;
+}
+
+form input, label, textarea {
+  display: block;
+  margin: auto;
+}
+
+form textarea {
+  resize: none;
+  width: 300px;
+  height: 80px;
+}
+
+form label {
+  margin-top: 10px;
+}
+
+form input[type='submit'] {
+  margin-top: 10px;
+}
+
+
+#spaces {
+  text-align: center;
+}
+
+#spaces p {
+  margin: 0;
+  display: inline;
+}
+
+#spaces li {
+  list-style: none;
+}
