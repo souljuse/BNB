@@ -17,7 +17,6 @@ You will be also notified with an email when you get confirmation of your bookin
 
 Explore and enjoy
 
-
 ###User stories
 ```
 As a new user
@@ -60,3 +59,11 @@ As a user with a listing
 so I can get the best deal
 I want spaces to be available until I confirm a booking
 ```
+###Team 3
+Tadas - https://github.com/tadasmajeris
+
+Crispin - https://github.com/crispinandrews
+
+Antony - https://github.com/antonyCastineiras
+
+Irene - https://github.com/souljuse
