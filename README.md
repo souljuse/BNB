@@ -1,6 +1,24 @@
-# BNB
-Team 3 BNB
+# Team 3 AirBnB
+Team 3 has released an awesome clone of AirBnB. Or is it AirBnB that cloned our app?
 
+### Install
+1. Clone this repository
+2. Run bundle
+3. Run the server
+```
+rackup config.ru
+```
+4. visit http://localhost:9292
+
+### Usage
+
+You can sign up, sign in, enter a place to rent and book a space.
+You will be also notified with an email when you get confirmation of your bookings!
+
+Explore and enjoy
+
+
+###User stories
 ```
 As a new user
 so I can use BNB
